@@ -1,8 +1,6 @@
 .container{
     width: auto;
     text-align: left;
-    /*border: 1px solid darkgray;*/
-
 }
 
 .inner-border{
@@ -21,8 +19,6 @@ h4 {
     font-family: 'Tangerine', serif;
     font-size: 48px;
 }
-
-
 img{
     width: 100%;
     height: 100%;
@@ -39,10 +35,7 @@ img{
     height: 75%;
     margin: 2vw;
     border-radius: 15px;
-
-    /*padding: 5%;*/
 }
 .flag{
     width: 10%;
-
 }
