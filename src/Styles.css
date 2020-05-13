@@ -30,14 +30,14 @@
     user-select: none;
 
 }
-.center h1{
+.center h3{
     color: white;
-    font-size: 70px;
+    font-size: 60px;
     font-width: bold;
     width: 900px;
     text-align: center;
 }
-.center h2{
+.center h4{
     color: white;
     font-size: 70px;
     font-width: bold;
@@ -48,27 +48,6 @@
 .center .links{
     margin: 35px 280px;
 }
-.links a{
-    height: 50px;
-    width: 150px;
-    font-size: 18px;
-    font-weight: bold;
-    color: #ffb3b3;
-    background: cornflowerblue;
-    border: 1px solid #ccb567;
-    outline: none;
-    cursor: pointer;
-    border-radius: 25px;
-    transition: 5s;
-    display: inline-block;
-}
-.links .btn{
-    margin-left: 25px;
-}
-.links a:hover {
-    background: red;
-}
-
 
 input[type=text], select, textarea {
     width: 100%;
