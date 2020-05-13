@@ -14,12 +14,6 @@
     width: 100%;
     background: rgba(0,0,0,0.4);
 }
-.logo{
-    width: 140px;
-    height: 65px;
-    padding: 10px 100px;
-}
-
 
 .wrapper .center{
     position: absolute;
